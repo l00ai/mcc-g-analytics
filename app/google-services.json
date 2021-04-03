@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "481959228402",
+    "project_id": "cloudcomputing-20e2b",
+    "storage_bucket": "cloudcomputing-20e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481959228402:android:6714496a532d714db9b16b",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481959228402-jkf79nolkakls6lffhcqs1scdr576fne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2eQatWfMAqu9vdYigmrsGzLykN3Xg08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481959228402-jkf79nolkakls6lffhcqs1scdr576fne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481959228402:android:aefc7259d45479e6b9b16b",
+        "android_client_info": {
+          "package_name": "com.example.mccassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481959228402-jkf79nolkakls6lffhcqs1scdr576fne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2eQatWfMAqu9vdYigmrsGzLykN3Xg08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481959228402-jkf79nolkakls6lffhcqs1scdr576fne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
